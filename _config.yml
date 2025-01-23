@@ -343,10 +343,10 @@ footer:
     # '更多':
     #   - '[关于本站](/)'
     #   - '[GitHub](/)'
-  content: | # 支持 Markdown 格式
-    This site is created by {author.name} using the {theme.name} {theme.version} theme.
-    All articles on this blog, unless otherwise stated, are licensed under the CC BY-NC-SA 4.0 license.
-    The source code for this theme is based on https://github.com/xaoxuu/hexo-theme-stellar, and I have made modifications to suit my needs.
+  # content: | # 支持 Markdown 格式
+  #   This site is created by {author.name} using the {theme.name} {theme.version} theme.
+  #   All articles on this blog, unless otherwise stated, are licensed under the CC BY-NC-SA 4.0 license.
+  #   The source code for this theme is based on https://github.com/xaoxuu/hexo-theme-stellar, and I have made modifications to suit my needs.
 
 
 ######## Tag Plugins ########
